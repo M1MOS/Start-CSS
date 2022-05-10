@@ -95,7 +95,7 @@ section{
 
 }
 .about-p{
-    font-size: 10px;
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     display: flex;
@@ -186,4 +186,13 @@ section{
     text-decoration: none;
     font-size: 15px;
     margin-bottom: 20px;
+}
+.ccg{
+    background-color: #1A252F;
+    width: 100%;
+    height: auto;
+    padding: 30px 0;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
