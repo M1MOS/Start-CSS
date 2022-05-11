@@ -26,8 +26,9 @@ body{
     width: 40%;
 }
 .logo{
+    width: 50%;
     justify-content: center;
-    width: 60%;
+    align-items: center;
 }
 
 .start{
@@ -327,7 +328,7 @@ section{
 
     .location h3{
         font-size: 30px;
-        padding-bottom: 30px;
+        padding-bottom: 10px;
     }
 
     .location p{
@@ -336,7 +337,7 @@ section{
 
     .arround h3{
         font-size: 30px;
-        padding-bottom: 30px;
+        padding-bottom: 10px;
     }
 
     .arround .icon{
@@ -346,7 +347,7 @@ section{
 
     .free h3{
         font-size: 30px;
-        padding-bottom: 30px;
+        padding-bottom: 10px;
     }
 
     .free p{
